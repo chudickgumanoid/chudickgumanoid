@@ -4,9 +4,8 @@ ___
   <img height="50px" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg">
   <img height="50px" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg">
   <img height="50px" src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg">
-  <img height="50px" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg">
-  <img height="50px" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg">
 </div>
+
 ___
 
 ### The text editor I work in
