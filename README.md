@@ -2,8 +2,8 @@
 ___
 <div>
 <img height="50px" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg">
-<img height="50px" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg">
-<img height="50px" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg">
+<img height="50px" src="[https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg](https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg)">
+<img height="50px" src="[https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg](https://sass-lang.com/assets/img/styleguide/seal-color-aef0354c.png)">
 <img height="50px" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg">
 <img height="50px" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg">
 </div>
