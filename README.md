@@ -10,9 +10,9 @@ ___
 
 ___
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kalachlegends&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chudickgumanoid&show_icons=true&theme=radical)
 </br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kalachlegends&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chudickgumanoid&layout=compact)
 
 
 <!--
