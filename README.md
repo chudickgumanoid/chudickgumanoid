@@ -4,15 +4,13 @@ ___
   <img height="50px" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg">
   <img height="50px" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg">
   <img height="50px" src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg">
+  <img height="50px" src="https://cdn.worldvectorlogo.com/logos/sublime-text.svg">
+  <img height="50px" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg">
 </div>
 
 ___
 
-### The text editor I work in
-<div>
-  <img height="50px" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg">
-  <img height="50px" src="https://cdn.worldvectorlogo.com/logos/sublime-text.svg">
-</div>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chudickgumanoid&show_icons=true&theme=radical)
 <!--
 **chudickgumanoid/chudickgumanoid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
