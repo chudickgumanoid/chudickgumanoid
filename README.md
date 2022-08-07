@@ -1,6 +1,6 @@
 ### Hi there, I'm Alexandr ✔
 
-![](https://img.shields.io/github/watchers/chudickgumanoid/chudickgumanoid?label=chudickgumanoid&style=social)
+<!-- ![](https://img.shields.io/github/watchers/chudickgumanoid/chudickgumanoid?label=chudickgumanoid&style=social) -->
 ___
 ### Languages and Tools:
 
@@ -31,15 +31,7 @@ ___
 
 ### Connect with me:
 
-<a href="https://vk.com/chudickgumanoid" target="_blank"><img src="https://cdn-icons.flaticon.com/png/512/2504/premium/2504953.png?token=exp=1659701629~hmac=7ffe37fadc1cafdafae3da8627361fc5" width="32px"></a>
-<a href="https://t.me/chudickgumanoid" target="_blank"><img src="https://cdn-icons.flaticon.com/png/512/2504/premium/2504941.png?token=exp=1659698259~hmac=0036229decaf68d76212c66babe974e1" width="32px"></a>
-<a href="https://www.instagram.com/chudickgumanoid/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/1409/1409946.png" width="32px"></a>
-<a href="https://vk.com/chudickgumanoid" target="_blank"><img src="https://cdn-icons.flaticon.com/png/512/2504/premium/2504896.png?token=exp=1659701538~hmac=64530a7fcedeb1f976e30be6345b1c0d" width="32px"></a>
-
-<br />
-
-
-
-
-<br />
-<br />
+<a href="https://vk.com/chudickgumanoid" target="_blank"><img src=".img/../img/vk.png" width="32px"></a>
+<a href="https://t.me/chudickgumanoid" target="_blank"><img src=".img/../img/tg.png" width="32px"></a>
+<a href="https://www.instagram.com/chudickgumanoid/" target="_blank"><img src=".img/../img/inst.png" width="32px"></a>
+<a href="https://discordapp.com/users/633990190758756372/" target="_blank"><img src=".img/../img/discord.png" width="32px"></a>
