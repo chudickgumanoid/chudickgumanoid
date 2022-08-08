@@ -35,7 +35,7 @@ ___
 ### Connect with me:
 <div>
   <a href="https://vk.com/chudickgumanoid" target="_blank"><img src=".img/../img/vk.png" width="32px"></a>
-  <a href="https://t.me/chudickgumanoid" target="_blank"><img src=".img/../img/tg.png" width="32px" style="margin: 0 10px 0 10px"></a>
+  <a href="https://t.me/chudickgumanoid" target="_blank"><img src=".img/../img/tg.png" width="32px"></a>
   <a href="https://www.instagram.com/chudickgumanoid/" target="_blank"><img src=".img/../img/inst.png" width="32px"></a>
-  <a href="https://discordapp.com/users/633990190758756372/" target="_blank"><img src=".img/../img/discord.png" width="32px" style="margin: 0 0 0 10px"></a>
+  <a href="https://discordapp.com/users/633990190758756372/" target="_blank"><img src=".img/../img/discord.png" width="32px"></a>
 </div>
