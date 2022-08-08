@@ -17,8 +17,10 @@ ___
 
 </br>
 </br>
-</br>
 
+___
+
+### Some of my Guthub stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chudickgumanoid&show_icons=true&theme=dracula&count_private=true)
 </br>
 
@@ -31,7 +33,6 @@ ___
   * Lorem ipsum
   * Lorem ipsum
   * Lorem ipsum -->
-
 ### Connect with me:
 <div>
   <a href="https://vk.com/chudickgumanoid" target="_blank"><img src=".img/../img/vk.png" width="32px"></a>
