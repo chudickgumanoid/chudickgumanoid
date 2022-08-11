@@ -2,7 +2,7 @@
 
 <!-- ![](https://img.shields.io/github/watchers/chudickgumanoid/chudickgumanoid?label=chudickgumanoid&style=social) -->
 ___
-### Languages and Tools:
+### :dash: Languages and Tools:
 
 <div>
   <img align="left" alt="HTML5" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"/>
@@ -20,12 +20,13 @@ ___
 
 ___
 
-### Some of my Guthub stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chudickgumanoid&show_icons=true&theme=dracula&count_private=true)
+### :eyes: Some of my Guthub stats
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chudickgumanoid&show_icons=true&theme=dracula&count_private=true) -->
 </br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chudickgumanoid&layout=compact&theme=dracula&count_private=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=chudickgumanoid&theme=dracula&hide_border=true&date_format=j%20M%5B%20Y%5D)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chudickgumanoid&layout=compact&theme=dracula&count_private=true)
 
 <!-- ## I'm a FrontEnd Developer
   * Lorem ipsum
