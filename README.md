@@ -24,6 +24,8 @@ ___
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chudickgumanoid&show_icons=true&theme=dracula&count_private=true) -->
 </br>
 
+![CodeWars](https://www.codewars.com/users/chudickgumanoid/badges/large)
+
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=chudickgumanoid&theme=dracula&hide_border=true&date_format=j%20M%5B%20Y%5D)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chudickgumanoid&layout=compact&theme=dracula&count_private=true)
