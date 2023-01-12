@@ -32,14 +32,6 @@ ___
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=chudickgumanoid&theme=dracula&hide_border=true&date_format=j%20M%5B%20Y%5D)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chudickgumanoid&layout=compact&theme=dracula&count_private=true)
-
-<!-- ## I'm a FrontEnd Developer
-  * Lorem ipsum
-  * Lorem ipsum
-  * Lorem ipsum
-  * Lorem ipsum
-  * Lorem ipsum -->
 ### Connect with me:
 <div>
   <a href="https://vk.com/chudickgumanoid" target="_blank"><img src=".img/../img/vk.png" width="32px"></a>
