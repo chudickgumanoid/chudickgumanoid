@@ -11,11 +11,17 @@ ___
   <img align="left" alt="TailwindCss" width="36px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/tailwindcss/tailwindcss-plain.svg"/>
   <img align="left" alt="JavaScript" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"/>
   <img align="left" alt="Vue" width="36px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vuejs/vuejs-original.svg"/>
+  <img align="left" alt="React" width="36px" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg"/>
   <img align="left" alt="Visual Studio Code" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"/>
   <img align="left" alt="Elixir" width="36px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/elixir/elixir-original.svg"/>
   <img align="left" alt="Phoenix elixir" width="36px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/phoenix/phoenix-original.svg"/>
+  <img align="left" alt="Djangorest" width="36px" src="https://github.com/devicons/devicon/blob/master/icons/djangorest/djangorest-original.svg"/>
+  <img align="left" alt="fastapi" width="36px" src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original.svg"/>
   <img align="left" alt="Git" width="36px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/git/git-original.svg"/>
+  <img align="left" alt="Gitlab" width="36px" src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg"/>
+  <img align="left" alt="Jira" width="36px" src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original.svg"/>
   <img align="left" alt="Ubuntu" width="36px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/ubuntu/ubuntu-plain.svg"/>
+  <img align="left" alt="JSON" width="36px" src="https://github.com/devicons/devicon/blob/master/icons/json/json-original.svg"/>
 
 </div>
 
